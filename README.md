@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏦 Banking System Project
 
 Welcome to the Banking System project! This Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data.
@@ -43,3 +44,6 @@ Follow these steps to set up and run the project on your local machine:
 - Contributions are welcome! Feel free to submit issues and pull requests.
 
 # Happy coding! 🎉
+=======
+# Bank-Management-System
+>>>>>>> bddb0b36f8a8c2341704ca5c6aafaf475df1d152
