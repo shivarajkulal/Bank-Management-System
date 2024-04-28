@@ -66,7 +66,8 @@ This structure organizes your project files into three main directories:
 
 ### 📊 Flow Chart
 
-- [Screenshot of Flow Chart]
+![Flow Chart](https://github.com/shivarajkulal/Bank-Management-System/raw/master/flow-chart.png)
+
 
 ## 🤝 Contributing
 
